@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.container{
+  border: 5px solid red;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+*{
+  text-align-last: center;
+margin-right: 10%;
+margin-left: 10%;
+}
+
+
+
+td{
+  padding: 0%; 
+margin: 0%;
+text-align: center;
+width: 550px;
+}
+.show{
+  display: inline-block;
+}
+
+*{
+  padding: 0%; 
+margin: 0%;
+text-align: center;
+}
+.fah{
+text-align-last:center;
+font-size: x-large;
+line-height: 55px;
+}
+
+.logo{
+  position: fixed;
+  bottom: -999;
+  right: 0;
+  width: 150px;
+  height: 50px;
+}
+
+.link1,.link2{
+  margin-left: 80px;
+color: red;
+text-decoration-line: none;
+font-size: xx-large;
+width: 100px;
+height: 100px;
+text-align-last: center
+
+}
+.fahad{
+width: 100%;
+line-height: 85px;
+
+display: flow-root;
+}
+
+.faha{
+    display: flow-root;
+}
+
+
+.link1:active,.link2:active{
+  color: blue;
+text-decoration-line: underline;
+}
+
